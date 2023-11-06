@@ -4,7 +4,7 @@
     --title-color-: #333;
 }
 
-.logo {
+.header__logo {
     color: var(--logoo-color-) ;
 }
 
