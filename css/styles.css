@@ -1,36 +1,30 @@
 :root {
-    --logoo-color-: #95E1D3;
-    --main-color-: #B6B6B6;
-    --title-color-: #333;
+  --logoo-color-: #95e1d3;
+  --main-color-: #b6b6b6;
+  --title-color-: #333;
 }
 
 body {
-    font-family: "Montserrat", sans-serif ;
-}  
+  font-family: "Montserrat", sans-serif;
+}
 
 .header {
-
 }
 
 .header__logo {
-    color: var(--logoo-color-);
-    font-size: 30px;
-    font-weight: 700;
+  color: var(--logoo-color-);
+  font-size: 30px;
+  font-weight: 700;
 }
 
 .header__nav {
-
 }
 
 .header__nav__list {
-
-} 
+}
 
 .header__nav-item {
-
 }
 
 .header__nav-link {
-
 }
-
