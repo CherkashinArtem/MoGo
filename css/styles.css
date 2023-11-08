@@ -4,7 +4,33 @@
     --title-color-: #333;
 }
 
+body {
+    font-family: "Montserrat", sans-serif ;
+}  
+
+.header {
+
+}
+
 .header__logo {
-    color: var(--logoo-color-) ;
+    color: var(--logoo-color-);
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.header__nav {
+
+}
+
+.header__nav__list {
+
+} 
+
+.header__nav-item {
+
+}
+
+.header__nav-link {
+
 }
 
